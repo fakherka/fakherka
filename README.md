@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Fakher Karouida</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Engineering Student (5th Year)</h3>
 
@@ -9,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fakher-karouida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakher-karouida" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fakher-karouida-3933a61b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakher-karouida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakherka&show_icons=true&locale=en&layout=compact" alt="fakherka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakherka&show_icons=true&locale=en" alt="fakherka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakherka&" alt="fakherka" /></p>
